@@ -1,1 +1,5 @@
 Print('version1');
+Print('Name : justin');
+Print('Address : UOB Residence');
+Print('Age : 17');
+Print('Gender : Male');
