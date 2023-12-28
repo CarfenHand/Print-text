@@ -4,3 +4,6 @@ print('Singapore');
 print('China');
 print('Malaysia');
 print('USA');
+print('HONGKONG');
+print('SOUTH KOREA');
+print('NORTH KOREA');
